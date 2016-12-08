@@ -13,7 +13,7 @@ This workflow is a free and open-source alternative to 1Password for Alfred as d
 
 ### Usage
 
-To retrieve a password from password store simply insert key phrase `p` followed by keyword, all matched credential entries will show up in popup list. After selecting the password for given service will be copied to system clipboard.
+To retrieve a password from password store simply insert key phrase `p` followed by keyword, all matched credential entries will show up in popup list. After selecting the password for given service's password will be copied to system clipboard.
 
 
 
